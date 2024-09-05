@@ -1,2 +1,2 @@
 # ufo-boxing-club
-University of Ottawa Boxing Club full stack website
+Author: Oussema Nijewi, 3rd year BAsc in Software Engineering at University Of Ottawa
